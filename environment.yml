@@ -12,6 +12,6 @@ dependencies:
   - pandas
   - openpyxl
   - pdfminer
-  - spacy
   - pip:
+    - spacy
     - es-core-news-md
