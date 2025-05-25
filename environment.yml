@@ -12,5 +12,4 @@ dependencies:
   - pandas
   - openpyxl
   - pdfminer
-  - pip:
-    - spacy
+  - pip
