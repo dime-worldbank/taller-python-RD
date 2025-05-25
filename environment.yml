@@ -14,4 +14,3 @@ dependencies:
   - pdfminer
   - pip:
     - spacy
-    - es-core-news-md
