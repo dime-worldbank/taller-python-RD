@@ -10,6 +10,5 @@ dependencies:
   - seaborn
   - numpy
   - pandas
-  - openpyxl
+  - openpyxl=3.1.5
   - pdfminer
-  - pip
